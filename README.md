@@ -1,4 +1,4 @@
-# QR/BAR CODE SCANNER
+# QR AND BAR CODE SCANNER
 An OpenCV python project which scans qr and bar codes through camera and displays the decoded data.
 
 ## modules used
