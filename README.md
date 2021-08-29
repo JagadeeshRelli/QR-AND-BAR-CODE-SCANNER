@@ -10,3 +10,5 @@ An OpenCV python project which scans qr and bar codes through camera and display
 
 ![Screenshot (74)](https://user-images.githubusercontent.com/58656215/118967383-4341ab00-b988-11eb-9589-9d32134fba63.png)
 
+- references: https://youtu.be/SrZuwM705yE
+
